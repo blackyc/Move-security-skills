@@ -1,0 +1,9 @@
+{
+    "name":  "code-hygiene-maintainability-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Code Hygiene and Maintainability Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

@@ -1,0 +1,9 @@
+{
+    "name":  "oracle-flashloan-hot-potato-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Oracle, Flash Loan, and Hot Potato Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

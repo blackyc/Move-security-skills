@@ -1,0 +1,9 @@
+{
+    "name":  "upgradeability-storage-safety",
+    "version":  "0.1.0-draft",
+    "description":  "Upgradeability and Storage Safety",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

@@ -1,0 +1,9 @@
+{
+    "name":  "input-validation-arithmetic-safety",
+    "version":  "0.1.0-draft",
+    "description":  "Input Validation and Arithmetic Safety",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

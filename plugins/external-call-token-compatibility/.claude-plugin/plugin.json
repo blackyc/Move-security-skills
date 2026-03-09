@@ -1,0 +1,9 @@
+{
+    "name":  "external-call-token-compatibility",
+    "version":  "0.1.0-draft",
+    "description":  "External Call and Token Compatibility",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

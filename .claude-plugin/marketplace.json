@@ -1,0 +1,120 @@
+{
+    "name":  "movesafe-security-skills",
+    "owner":  {
+                  "name":  "MoveSafe"
+              },
+    "metadata":  {
+                     "description":  "MoveSafe smart contract security skills bootstrapped from findings and ai_audit_findings data.",
+                     "version":  "0.1.0-draft"
+                 },
+    "plugins":  [
+                    {
+                        "name":  "governance-centralization-analysis",
+                        "source":  "./plugins/governance-centralization-analysis",
+                        "description":  "Governance and Centralization Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "event-observability-analysis",
+                        "source":  "./plugins/event-observability-analysis",
+                        "description":  "Event and Observability Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "access-control-initialization-analysis",
+                        "source":  "./plugins/access-control-initialization-analysis",
+                        "description":  "Access Control and Initialization Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "input-validation-arithmetic-safety",
+                        "source":  "./plugins/input-validation-arithmetic-safety",
+                        "description":  "Input Validation and Arithmetic Safety",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "external-call-token-compatibility",
+                        "source":  "./plugins/external-call-token-compatibility",
+                        "description":  "External Call and Token Compatibility",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "signature-replay-analysis",
+                        "source":  "./plugins/signature-replay-analysis",
+                        "description":  "Signature and Replay Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "upgradeability-storage-safety",
+                        "source":  "./plugins/upgradeability-storage-safety",
+                        "description":  "Upgradeability and Storage Safety",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "dos-gas-griefing-analysis",
+                        "source":  "./plugins/dos-gas-griefing-analysis",
+                        "description":  "DoS, Gas, and Griefing Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "reentrancy-state-transition-analysis",
+                        "source":  "./plugins/reentrancy-state-transition-analysis",
+                        "description":  "Reentrancy and State Transition Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "code-hygiene-maintainability-analysis",
+                        "source":  "./plugins/code-hygiene-maintainability-analysis",
+                        "description":  "Code Hygiene and Maintainability Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "oracle-flashloan-hot-potato-analysis",
+                        "source":  "./plugins/oracle-flashloan-hot-potato-analysis",
+                        "description":  "Oracle, Flash Loan, and Hot Potato Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    },
+                    {
+                        "name":  "move-object-ptbs-analysis",
+                        "source":  "./plugins/move-object-ptbs-analysis",
+                        "description":  "Move Object and PTBs Analysis",
+                        "version":  "0.1.0-draft",
+                        "author":  {
+                                       "name":  "MoveSafe"
+                                   }
+                    }
+                ]
+}

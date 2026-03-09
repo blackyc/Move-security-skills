@@ -1,0 +1,9 @@
+{
+    "name":  "event-observability-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Event and Observability Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

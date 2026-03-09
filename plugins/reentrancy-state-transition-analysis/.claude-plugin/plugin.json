@@ -1,0 +1,9 @@
+{
+    "name":  "reentrancy-state-transition-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Reentrancy and State Transition Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

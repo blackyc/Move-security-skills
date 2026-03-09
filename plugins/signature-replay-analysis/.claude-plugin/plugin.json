@@ -1,0 +1,9 @@
+{
+    "name":  "signature-replay-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Signature and Replay Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

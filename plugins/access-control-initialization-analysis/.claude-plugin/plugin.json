@@ -1,0 +1,9 @@
+{
+    "name":  "access-control-initialization-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Access Control and Initialization Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

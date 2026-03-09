@@ -1,0 +1,9 @@
+{
+    "name":  "dos-gas-griefing-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "DoS, Gas, and Griefing Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}

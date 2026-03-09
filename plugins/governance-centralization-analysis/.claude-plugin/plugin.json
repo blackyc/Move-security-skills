@@ -1,0 +1,9 @@
+{
+    "name":  "governance-centralization-analysis",
+    "version":  "0.1.0-draft",
+    "description":  "Governance and Centralization Analysis",
+    "author":  {
+                   "name":  "MoveSafe",
+                   "url":  "https://movesafe.local"
+               }
+}
